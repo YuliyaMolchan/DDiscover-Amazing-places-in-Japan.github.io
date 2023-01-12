@@ -1,1 +1,1 @@
-# DDiscover-Amazing-places-in-Japan.github.io
+# DiscoverAmazingplacesinJapan.github.io
